@@ -1,6 +1,5 @@
 import PillSplitter from "./components/PillSplitter"
 
-
 function App() {
   return (
     <>
